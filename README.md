@@ -22,12 +22,3 @@ Este projeto foi criado como um experimento pessoal para aprender mais sobre des
 
 ## 📌 Status do Projeto
 Atualmente, o app é **pessoal e não está nas lojas de aplicativos**. Ainda estou otimizando e adicionando funcionalidades antes de disponibilizá-lo para um público maior.
-
-## 📩 Contato
-Caso tenha sugestões ou queira trocar ideias sobre o projeto, me chama aqui:
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [GitHub](https://github.com/seu-usuario)
-
----
-🚀 **503020 - Simplificando o Controle Financeiro!**
-
