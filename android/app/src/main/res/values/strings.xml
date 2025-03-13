@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">503020</string>
+    <string name="title_activity_main">503020</string>
+    <string name="package_name">luiz.com.app503020</string>
+    <string name="custom_url_scheme">luiz.com.app503020</string>
+</resources>

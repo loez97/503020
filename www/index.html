@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão 50-30-20</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h2 class="container__title">Regra 50-30-20</h2>
+
+        <label for="valor" class="input__label">Digite seu valor:</label>
+        <input type="tel" id="valor" class="input__field" placeholder="R$ 0,00">
+
+        <ul class="result">
+            <li class="result__item">🏠 Essenciais: <span id="essenciais" class="result__value">R$ 0,00</span></li>
+            <li class="result__item">🎉 Lazer: <span id="lazer" class="result__value">R$ 0,00</span></li>
+            <li class="result__item">💰 Poupar: <span id="poupanca" class="result__value">R$ 0,00</span></li>
+            <li class="result__item">📊 Investir: <span id="investimento" class="result__value">R$ 0,00</span></li>
+        </ul>
+
+        <div class="suggestion">
+            <h3 class="suggestion__title">Gastos por semana</h3>
+            <p id="sugestao" class="suggestion__value">R$ 0,00</p>
+        </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
